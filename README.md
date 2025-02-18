@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently making projects in JavaScript. <br>I then plan to learn React and then complete backend. <br>I am also practicing DSA and looking to master Data Analystics as well.
+I'm currently making projects in MERN and Machine Learning. <br>I am also practicing DSA and looking to master Data Analystics as well.
 
 
 # 💻 Tech Stack:
