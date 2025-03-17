@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently making projects in MERN and Machine Learning. <br>I am also practicing DSA and looking to master Data Analystics as well.
+I'm currently making projects in MERN and Machine Learning. <br>I am also practicing DSA and looking to master Data Analystics as well. <br>Checkout my LeetCode profile here: https://leetcode.com/u/raman04/
 
 
 # 💻 Tech Stack:
