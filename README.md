@@ -1,6 +1,22 @@
 # 💫 About Me:
-I'm currently making projects in MERN and Machine Learning. <br>I am also practicing DSA and looking to master Data Analystics as well. <br>Checkout my LeetCode profile here: https://leetcode.com/u/raman04/ <br>
-Checkout My Portfolio: https://my-portfolio-website-gmcm.vercel.app/
+Hi there! I'm Raman, a passionate developer exploring the intersection of Machine Learning and Full-Stack Development.
+I love building intelligent, data-driven applications using modern web technologies and experimenting with end-to-end ML solutions.
+
+I’m currently working on projects in Full Stack Development and Machine Learning, while constantly improving my problem-solving and DSA skills. My long-term goal is to become a well-rounded engineer capable of designing scalable systems that combine data, algorithms, and clean UI/UX.
+
+📈 What I’m currently up to:
+
+Building real-world projects using JavaScript, React, Node.js, and Python ML frameworks
+
+Practicing DSA on LeetCode to strengthen my algorithmic thinking
+
+Exploring ways to combine Machine Learning with Full-Stack applications
+
+💡 Quick Links:
+
+🧠 LeetCode: https://leetcode.com/u/raman04/
+
+🌐 Portfolio: https://my-portfolio-website-gmcm.vercel.app/
 
 
 # 💻 Tech Stack:
