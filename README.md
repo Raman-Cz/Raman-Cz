@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raman-singh-343b212b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7C6FE0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ramankemwal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-E8907A?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/raman04/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-C9A33A?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://my-portfolio-website-gmcm.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-3E9C7A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raman-singh-343b212b7/"><img alt="LinkedIn" src="assets/badge-linkedin.svg" height="40"></a>
+  <a href="mailto:ramankemwal@gmail.com"><img alt="Email" src="assets/badge-email.svg" height="40"></a>
+  <a href="https://leetcode.com/u/raman04/"><img alt="LeetCode" src="assets/badge-leetcode.svg" height="40"></a>
+  <a href="https://my-portfolio-website-gmcm.vercel.app/"><img alt="Portfolio" src="assets/badge-portfolio.svg" height="40"></a>
 </p>
 
 <p align="center">
